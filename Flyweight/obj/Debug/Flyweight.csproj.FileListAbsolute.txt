@@ -1,0 +1,17 @@
+F:\Design Patterns\Examen\Flyweight\bin\Debug\Flyweight.exe
+F:\Design Patterns\Examen\Flyweight\bin\Debug\Flyweight.pdb
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.Form1.resources
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.Properties.Resources.resources
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.csproj.GenerateResource.Cache
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.exe
+F:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.pdb
+E:\Design Patterns\Examen\Flyweight\bin\Debug\Flyweight.exe.config
+E:\Design Patterns\Examen\Flyweight\bin\Debug\Flyweight.exe
+E:\Design Patterns\Examen\Flyweight\bin\Debug\Flyweight.pdb
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.Form1.resources
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.Properties.Resources.resources
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.csproj.GenerateResource.Cache
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.exe
+E:\Design Patterns\Examen\Flyweight\obj\Debug\Flyweight.pdb

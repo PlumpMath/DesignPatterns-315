@@ -1,0 +1,13 @@
+C:\Users\st.ITSTEP\Desktop\Examen\Observer\bin\Debug\Observer.exe.config
+F:\Design Patterns\Examen\Observer\bin\Debug\Observer.exe.config
+F:\Design Patterns\Examen\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+F:\Design Patterns\Examen\Observer\bin\Debug\Observer.exe
+F:\Design Patterns\Examen\Observer\bin\Debug\Observer.pdb
+F:\Design Patterns\Examen\Observer\obj\Debug\Observer.exe
+F:\Design Patterns\Examen\Observer\obj\Debug\Observer.pdb
+E:\Design Patterns\Examen\Observer\bin\Debug\Observer.exe.config
+E:\Design Patterns\Examen\Observer\bin\Debug\Observer.exe
+E:\Design Patterns\Examen\Observer\bin\Debug\Observer.pdb
+E:\Design Patterns\Examen\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+E:\Design Patterns\Examen\Observer\obj\Debug\Observer.exe
+E:\Design Patterns\Examen\Observer\obj\Debug\Observer.pdb
